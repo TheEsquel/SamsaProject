@@ -1,2 +1,2 @@
 # SamsaProject
-JS game  "snake-like"  where players  has to  feed  Rem  with  samsa's  till he get  100. Dont let him  starve.
+JS "snake-like" game, you have to feed  Rem  with  samsa till he gets 100. Dont let him  starve.
